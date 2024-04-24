@@ -78,11 +78,16 @@ const About = () => {
           </a>
         </div>
         <div className="flex items-center mt-6">
-          <p className="mt-6 text-xs lg:text-sm leading-none text-gray-900 dark:text-gray-50">
-            &copy; {new Date().getFullYear()} designed by{' '}
-            <a href="https://github.com/issaafalkattan" rel="nofollow">
-              Issaaf Kattan
-            </a>
+          <p className="text-center mt-6 text-xs lg:text-sm leading-none text-gray-900 dark:text-gray-50">
+            &copy; {new Date().getFullYear()} HiveTech. Educational purposes
+            only. Every content is owned by its respective owner. A{' '}
+            <a
+              href="https://github.com/issaafalkattan/react-landing-page-template-2021"
+              rel="nofollow"
+            >
+              template
+            </a>{' '}
+            was used because of the limited time for the assignment.
           </p>
         </div>
       </div>
