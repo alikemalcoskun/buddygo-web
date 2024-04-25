@@ -98,7 +98,7 @@
       },
       {
         "name": "Premium",
-        "price": "$10",
+        "price": "$5",
         "priceDetails": "per user/month",
 
         "features": [
